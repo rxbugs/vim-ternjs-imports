@@ -53,6 +53,8 @@ Run
 Then try `import '` and then `<C-Q>` and select a module.
 Also try `import './o` and then `<C-Q>` and select the other module.
 
+Try the same with `init.omni.vim` but compare with inserting from `<C-X><C-O>`.
+
 ### Tested with
 
 Python 3.5.2 with python-neovim host (required for deoplete)
