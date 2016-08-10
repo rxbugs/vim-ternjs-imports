@@ -57,7 +57,7 @@ Try the same with `init.omni.vim` but compare with inserting from `<C-X><C-O>`.
 
 ### Tested with
 
-Python 3.5.2 with python-neovim host (required for deoplete)
-NVIM 0.1.4
-Node 6.3.1
-Tern 0.19.0
+- Python 3.5.2 with python-neovim host (required for deoplete)
+- NVIM 0.1.4
+- Node 6.3.1
+- Tern 0.19.0
